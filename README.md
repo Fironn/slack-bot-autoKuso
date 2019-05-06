@@ -1,6 +1,6 @@
 # slack-bot-autoKuso
 
-くそを投稿するだけのクソbot
+くそを投稿するだけのクソSlackBot
  
  
 ファイル `slackbot_settings.py` を作成
